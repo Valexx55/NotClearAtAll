@@ -12,6 +12,6 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
-		<nature>org.eclipse.jdt.core.costaintermedia</nature>
+		<nature>org.eclipse.jdt.core.toketeo</nature>
 	</natures>
 </projectDescription>
