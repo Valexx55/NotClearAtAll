@@ -12,6 +12,6 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
-		<nature>org.eclipse.jdt.core.toketeoaca</nature>
+		<nature>org.eclipse.jdt.core.toketeodefinitivo</nature>
 	</natures>
 </projectDescription>
